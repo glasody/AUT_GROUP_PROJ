@@ -1,0 +1,14 @@
+15														
+12														
+W	W	W	W	W	W	W	W	W	W	W	W	W	W	W
+W	Z	G	G	G	G	G	G	G	G	G	G	G	G	W
+W	G	G	G	G	G	G	G	G	G	G	G	G	G	W
+W	G	G	P	G	G	G	G	G	G	G	G	G	G	W
+W	G	G	G	G	G	G	G	G	G	G	G	G	G	W
+W	G	G	G	G	Z	G	G	G	G	G	G	G	G	W
+W	G	G	G	G	G	G	G	G	G	G	A	G	G	W
+W	G	G	G	G	G	G	G	G	G	G	G	G	G	W
+W	G	G	Z	G	G	G	G	G	G	G	G	G	G	W
+W	G	G	G	G	G	G	G	F	G	G	G	C	G	W
+W	G	G	G	G	G	G	G	G	G	G	G	G	G	W
+W	W	W	W	W	W	W	W	W	W	W	W	W	W	W
